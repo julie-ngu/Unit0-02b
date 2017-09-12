@@ -1,0 +1,73 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{185, 161}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System-Bold>",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "E0313780-2C16-4749-A29D-3A8062E84407",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Julie Nguyen",
+          "number_of_lines" : 0,
+          "font_size" : 24,
+          "name" : "first_name_last_name_label"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{185, 225}, {150, 34}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System-Bold>",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "E0313780-2C16-4749-A29D-3A8062E84407",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ottawa",
+          "number_of_lines" : 0,
+          "name" : "city_label",
+          "font_size" : 24
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{185, 289.61861670475571}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System-Bold>",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "E0313780-2C16-4749-A29D-3A8062E84407",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ontario",
+          "number_of_lines" : 0,
+          "font_size" : 24,
+          "name" : "province_label"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
